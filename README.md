@@ -1,5 +1,5 @@
 # Hybrid API Server
-In Development. An API that serves both centralized and decentralized content.
+In Development. An API that serves both centralized and decentralized content keys to [Hybrid-Client](https://github.com/matthewstewart/hybrid-client).
 
 ## Install
 In your terminal:
