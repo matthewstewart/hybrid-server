@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/matthewstewart/hybrid-server/issues"
   },
-  "homepage": "https://github.com/matthewstewart/hybrid-server#readme"
+  "homepage": "https://github.com/matthewstewart/hybrid-server#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.1",
+    "body-parser": "^1.18.3",
+    "dat-node": "^3.5.13",
+    "express": "^4.16.3",
+    "express-bearer-token": "^2.2.0",
+    "jsonwebtoken": "^8.3.0",
+    "moment": "^2.22.2",
+    "mongoose": "^4.10.0",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0",
+    "uuid": "^3.3.2"
+  }
 }
