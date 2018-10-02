@@ -51,6 +51,9 @@ app.use((req, res, next) => {
 // static info routes
 require("./routes/static.js")(app);
 
+// static api routes
+require("./routes/api.js")(app);
+
 // auth routes
 require("./routes/auth.js")(app, passport);
 
