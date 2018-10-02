@@ -1,0 +1,19 @@
+{
+  "name": "hybrid-server",
+  "version": "0.0.1",
+  "description": "An Express API that serves both centralized and decentralized content.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewstewart/hybrid-server.git"
+  },
+  "author": "Matthew Stewart",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/matthewstewart/hybrid-server/issues"
+  },
+  "homepage": "https://github.com/matthewstewart/hybrid-server#readme"
+}
